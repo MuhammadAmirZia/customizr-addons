@@ -4,7 +4,7 @@ Author URI: https://presscustomizr.com
 Plugin URI: https://github.com/presscustomizr/customizr-addons
 Tags: customizr theme, customizr
 Requires at least: 3.4
-Tested up to: 5.8
+Tested up to: 5.9
 Stable tag: 1.1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -23,7 +23,7 @@ The Customizr Addons is a WordPress plugin designed specifically for the Customi
 
 == Changelog ==
 = 1.1.2 : July 20th 2021 =
-* 100% compatible with WP 5.8
+* 100% compatible with WP 5.9
 
 = 1.1.1 : April 23rd 2021 =
 * successfully tested with WP 5.7.1
